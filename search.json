@@ -1,0 +1,227 @@
+[
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "# Learning Resources\n## Lecture Materials\nTraining slides and notes."
+  },
+  {
+    "objectID": "resources.html#datasets",
+    "href": "resources.html#datasets",
+    "title": "Resources",
+    "section": "Datasets",
+    "text": "Datasets\nExample surveillance datasets."
+  },
+  {
+    "objectID": "resources.html#code-repositories",
+    "href": "resources.html#code-repositories",
+    "title": "Resources",
+    "section": "Code Repositories",
+    "text": "Code Repositories\nR scripts and modelling examples."
+  },
+  {
+    "objectID": "resources.html#reading-materials",
+    "href": "resources.html#reading-materials",
+    "title": "Resources",
+    "section": "Reading Materials",
+    "text": "Reading Materials\nKey references and publications."
+  },
+  {
+    "objectID": "module4.html",
+    "href": "module4.html",
+    "title": "Module IV",
+    "section": "",
+    "text": "# Mathematical Modelling Techniques: From Theory to Practice\n## Topics\n### Introduction to Disease Modelling\n### Compartmental Models\n### SIR Models\n### SEIR Models\n### Vector-Borne Disease Models\n### Parameter Estimation\n### Model Calibration\n### Sensitivity Analysis\n## Practical Sessions\n\nArbovirus transmission modelling\nForecasting outbreaks\nEvaluating interventions",
+    "crumbs": [
+      "Home",
+      "Training Modules",
+      "Module IV"
+    ]
+  },
+  {
+    "objectID": "module2.html",
+    "href": "module2.html",
+    "title": "Module II",
+    "section": "",
+    "text": "# Introduction to R for Public Health Surveillance\n## Learning Objectives\nParticipants will:",
+    "crumbs": [
+      "Home",
+      "Training Modules",
+      "Module II"
+    ]
+  },
+  {
+    "objectID": "module2.html#topics",
+    "href": "module2.html#topics",
+    "title": "Module II",
+    "section": "Topics",
+    "text": "Topics\n\nIntroduction to R\n\n\nData Management using tidyverse\n\n\nData Visualization using ggplot2\n\n\nEpidemiological Analysis\n\n\nAutomated Reporting",
+    "crumbs": [
+      "Home",
+      "Training Modules",
+      "Module II"
+    ]
+  },
+  {
+    "objectID": "module2.html#practical-sessions",
+    "href": "module2.html#practical-sessions",
+    "title": "Module II",
+    "section": "Practical Sessions",
+    "text": "Practical Sessions\n\nImporting datasets\nCleaning surveillance data\nBuilding surveillance reports",
+    "crumbs": [
+      "Home",
+      "Training Modules",
+      "Module II"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Arbo-Watch Hub",
+    "section": "",
+    "text": "# Welcome to Arbo-Watch\n## Strengthening Arbovirus Surveillance, Analytics and Modelling Capacity in Africa\nThe Arbo-Watch Capacity Building Hub provides a comprehensive training programme designed to equip researchers, epidemiologists, public health practitioners, postgraduate students, and policymakers with practical skills in surveillance, statistical analysis, mathematical modelling, and spatial epidemiology."
+  },
+  {
+    "objectID": "index.html#programme-objectives",
+    "href": "index.html#programme-objectives",
+    "title": "Arbo-Watch Hub",
+    "section": "Programme Objectives",
+    "text": "Programme Objectives\nThe programme aims to:\n\nStrengthen arbovirus surveillance systems\nImprove data management and quality assurance\nBuild capacity in statistical analysis\nDevelop mathematical modelling skills\nEnhance spatial epidemiology expertise\nSupport evidence-based decision making"
+  },
+  {
+    "objectID": "index.html#target-participants",
+    "href": "index.html#target-participants",
+    "title": "Arbo-Watch Hub",
+    "section": "Target Participants",
+    "text": "Target Participants\n\nEpidemiologists\nBiostatisticians\nPublic Health Officers\nResearchers\nGIS Specialists\nGraduate Students"
+  },
+  {
+    "objectID": "index.html#learning-approach",
+    "href": "index.html#learning-approach",
+    "title": "Arbo-Watch Hub",
+    "section": "Learning Approach",
+    "text": "Learning Approach\nThe training combines:\n\nInteractive lectures\nHands-on practical sessions\nCase studies\nGroup projects\nReal-world datasets\nCollaborative learning"
+  },
+  {
+    "objectID": "index.html#training-modules",
+    "href": "index.html#training-modules",
+    "title": "Arbo-Watch Hub",
+    "section": "Training Modules",
+    "text": "Training Modules\n\nModule I\nData Collection, Management and Analysis Tools\n\n\nModule II\nIntroduction to R for Public Health Surveillance\n\n\nModule III\nStatistical Modelling for Epidemiological Research\n\n\nModule IV\nMathematical Modelling Techniques: From Theory to Practice\n\n\nModule V\nSpatial Epidemiology, Risk Mapping and Decision Support Systems"
+  },
+  {
+    "objectID": "index.html#expected-outcomes",
+    "href": "index.html#expected-outcomes",
+    "title": "Arbo-Watch Hub",
+    "section": "Expected Outcomes",
+    "text": "Expected Outcomes\nParticipants will be able to:\n\nDesign surveillance systems\nManage public health datasets\nConduct epidemiological analyses\nBuild disease transmission models\nProduce risk maps\nDevelop evidence-informed recommendations"
+  },
+  {
+    "objectID": "curriculum.html",
+    "href": "curriculum.html",
+    "title": "Training Curriculum",
+    "section": "",
+    "text": "# Curriculum Overview\nThe Arbo-Watch training programme consists of five integrated modules.\n\n\n\nModule\nDuration\nFocus Area\n\n\n\n\nI\n5 Days\nData Collection and Management\n\n\nII\n5 Days\nR Programming\n\n\nIII\n5 Days\nStatistical Modelling\n\n\nIV\n5 Days\nMathematical Modelling\n\n\nV\n5 Days\nSpatial Epidemiology\n\n\n\n## Training Philosophy\nThe curriculum emphasizes:\n\nPractical application\nReproducible research\nOpen science\nOne Health approaches\nDecision support"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "# Contact Information\n## Arbo-Watch Secretariat\nEmail: training@arbowatch.org\nWebsite: www.arbowatch.org\nGitHub: github.com/arbowatch"
+  },
+  {
+    "objectID": "contact.html#partnerships",
+    "href": "contact.html#partnerships",
+    "title": "Contact",
+    "section": "Partnerships",
+    "text": "Partnerships\nFor collaborations and partnerships, contact the programme secretariat."
+  },
+  {
+    "objectID": "faculty.html",
+    "href": "faculty.html",
+    "title": "Faculty",
+    "section": "",
+    "text": "# Faculty and Trainers\n## Course Directors\n### Prof. XXXXX\nInstitution\nResearch Interests"
+  },
+  {
+    "objectID": "faculty.html#guest-trainers",
+    "href": "faculty.html#guest-trainers",
+    "title": "Faculty",
+    "section": "Guest Trainers",
+    "text": "Guest Trainers\nDetails to be added."
+  },
+  {
+    "objectID": "module1.html",
+    "href": "module1.html",
+    "title": "Module I",
+    "section": "",
+    "text": "This module equips participants with the knowledge and practical skills needed to collect, manage, and analyze data effectively using digital tools. Covers the entire data lifecycle, from planning and collection to storage, processing, and reporting, while emphasizing data quality, security, and ethical standards. Participants will gain hands-on experience with modern platforms such as Google Forms, Kobo Toolbox, and Microsoft Excel, enabling them to design digital data collection tools, conduct mobile-based field surveys, and perform basic to advanced data analysis for informed decision-making\n\n\n\n\n\nSurveillance systems\nData pipelines\nReporting structures\n\n\n\n\n\nKoboToolbox\nREDCap\nODK\n\n\n\n\n\nCompleteness\nConsistency\nTimeliness\nAccuracy\n\n\n\n\n\nMonitoring indicators\nInteractive reporting\n\n\n\n\n\n\nKoboToolbox project development\nREDCap implementation\nDashboard creation",
+    "crumbs": [
+      "Home",
+      "Training Modules",
+      "Module I"
+    ]
+  },
+  {
+    "objectID": "module1.html#topics",
+    "href": "module1.html#topics",
+    "title": "Module I",
+    "section": "",
+    "text": "Surveillance systems\nData pipelines\nReporting structures\n\n\n\n\n\nKoboToolbox\nREDCap\nODK\n\n\n\n\n\nCompleteness\nConsistency\nTimeliness\nAccuracy\n\n\n\n\n\nMonitoring indicators\nInteractive reporting",
+    "crumbs": [
+      "Home",
+      "Training Modules",
+      "Module I"
+    ]
+  },
+  {
+    "objectID": "module1.html#practical-sessions",
+    "href": "module1.html#practical-sessions",
+    "title": "Module I",
+    "section": "",
+    "text": "KoboToolbox project development\nREDCap implementation\nDashboard creation",
+    "crumbs": [
+      "Home",
+      "Training Modules",
+      "Module I"
+    ]
+  },
+  {
+    "objectID": "module3.html",
+    "href": "module3.html",
+    "title": "Module III",
+    "section": "",
+    "text": "# Statistical Modelling for Epidemiological Research\n## Topics\n### Epidemiological Study Designs\n### Regression Analysis",
+    "crumbs": [
+      "Home",
+      "Training Modules",
+      "Module III"
+    ]
+  },
+  {
+    "objectID": "module3.html#practical-sessions",
+    "href": "module3.html#practical-sessions",
+    "title": "Module III",
+    "section": "Practical Sessions",
+    "text": "Practical Sessions\n\nRisk factor analysis\nOutbreak investigation\nPredictive modelling",
+    "crumbs": [
+      "Home",
+      "Training Modules",
+      "Module III"
+    ]
+  },
+  {
+    "objectID": "module5.html",
+    "href": "module5.html",
+    "title": "Module V",
+    "section": "",
+    "text": "# Spatial Epidemiology, Risk Mapping and Decision Support Systems\n## Topics\n### GIS Fundamentals\n### Remote Sensing\n### Spatial Statistics\n### Disease Mapping\n### Species Distribution Models\n### Decision Support Systems\n## Practical Sessions\n\nQGIS workflows\nRisk mapping\nSuitability modelling",
+    "crumbs": [
+      "Home",
+      "Training Modules",
+      "Module V"
+    ]
+  }
+]
