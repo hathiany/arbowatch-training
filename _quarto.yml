@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Arbo-Watch Capacity Building Hub"
+  title: "Arbo-Watch  Hub"
 
   navbar:
     background: primary
