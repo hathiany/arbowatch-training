@@ -1,0 +1,47 @@
+---
+  title: "Module I"
+---
+
+# Overview
+
+This module equips participants with the knowledge and practical skills needed to collect, manage,
+and analyze data effectively using digital tools. Covers the entire data lifecycle, from planning and
+collection to storage, processing, and reporting, while emphasizing data quality, security, and ethical
+standards. Participants will gain hands-on experience with modern platforms such as Google
+Forms, Kobo Toolbox, and Microsoft Excel, enabling them to design digital data collection
+tools, conduct mobile-based field surveys, and perform basic to advanced data analysis for informed
+decision-making
+
+
+
+## Topics
+
+### Public Health Data Systems
+
+- Surveillance systems
+- Data pipelines
+- Reporting structures
+
+### Digital Data Collection
+
+- KoboToolbox
+- REDCap
+- ODK
+
+### Data Quality
+
+- Completeness
+- Consistency
+- Timeliness
+- Accuracy
+
+### Dashboard Development
+
+- Monitoring indicators
+- Interactive reporting
+
+## Practical Sessions
+
+- KoboToolbox project development
+- REDCap implementation
+- Dashboard creation

@@ -1,0 +1,27 @@
+---
+  title: "Module III"
+---
+  
+  # Statistical Modelling for Epidemiological Research
+  
+  ## Topics
+  
+  ### Epidemiological Study Designs
+  
+  ### Regression Analysis
+  
+  - Linear Regression
+- Logistic Regression
+- Poisson Regression
+
+### Mixed Effects Models
+
+### Survival Analysis
+
+### Machine Learning Applications
+
+## Practical Sessions
+
+- Risk factor analysis
+- Outbreak investigation
+- Predictive modelling

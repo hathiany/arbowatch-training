@@ -1,0 +1,52 @@
+project:
+  type: website
+
+website:
+  title: "Arbo-Watch Capacity Building Hub"
+
+  navbar:
+    background: primary
+    search: true
+
+    left:
+      - href: index.qmd
+        text: Home
+
+      - href: curriculum.qmd
+        text: Curriculum
+
+      - href: faculty.qmd
+        text: Faculty
+
+      - href: resources.qmd
+        text: Resources
+
+      - href: contact.qmd
+        text: Contact
+
+    right:
+      - icon: github
+        href: https://github.com/arbowatch
+
+  sidebar:
+    style: floating
+    search: true
+
+    contents:
+      - section: "Training Modules"
+        contents:
+          - module1.qmd
+          - module2.qmd
+          - module3.qmd
+          - module4.qmd
+          - module5.qmd
+
+  page-footer:
+    left: "Arbo-Watch Capacity Building Hub"
+    right: "Built with Quarto"
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true

@@ -1,0 +1,29 @@
+---
+  title: "Module IV"
+---
+  
+  # Mathematical Modelling Techniques: From Theory to Practice
+  
+  ## Topics
+  
+  ### Introduction to Disease Modelling
+  
+  ### Compartmental Models
+  
+  ### SIR Models
+  
+  ### SEIR Models
+  
+  ### Vector-Borne Disease Models
+  
+  ### Parameter Estimation
+  
+  ### Model Calibration
+  
+  ### Sensitivity Analysis
+  
+  ## Practical Sessions
+  
+  - Arbovirus transmission modelling
+- Forecasting outbreaks
+- Evaluating interventions

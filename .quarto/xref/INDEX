@@ -1,0 +1,32 @@
+{
+  "contact.qmd": {
+    "contact.html": "d9369f7e"
+  },
+  "curriculum.qmd": {
+    "curriculum.html": "8eaf72aa"
+  },
+  "faculty.qmd": {
+    "faculty.html": "92e73172"
+  },
+  "index.qmd": {
+    "index.html": "83b7cf05"
+  },
+  "module1.qmd": {
+    "module1.html": "1f3f127e"
+  },
+  "module2.qmd": {
+    "module2.html": "88788f29"
+  },
+  "module3.qmd": {
+    "module3.html": "6400a5ed"
+  },
+  "module4.qmd": {
+    "module4.html": "c0e5c187"
+  },
+  "module5.qmd": {
+    "module5.html": "619c56b2"
+  },
+  "resources.qmd": {
+    "resources.html": "fdd04a06"
+  }
+}

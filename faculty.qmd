@@ -1,0 +1,25 @@
+---
+  title: "Faculty"
+---
+  
+  # Faculty and Trainers
+  
+  ## Course Directors
+  
+  ### Prof. XXXXX
+  
+  Institution
+
+Research Interests
+
+- Infectious Disease Modelling
+- Epidemiology
+
+### Henry Athiany
+
+
+Henry Athiany is a Lecturer in the Department of Statistics and Actuarial Sciences (STACS) at JKUAT, with training in Biostatistics and Epidemiology and a background in Mathematics and Computer Science. His research spans epidemiology, infectious disease modelling, Bayesian and spatiotemporal analysis, clinical trials, statistical computing, bioinformatics, time-series forecasting, and mental health analytics. With over 15 years of experience working with large-scale eHealth and routinely collected healthcare data, he has contributed to national public health initiatives, including serving on Kenya’s COVID-19 Modelling Technical Committee and supporting multiple Ministry of Health projects on digital health systems, diagnostics optimization, and health information interoperability. He is also an experienced trainer in statistical software and research methods and has held leadership roles within the International Biometric Society and the Statistical Society of Kenya. Currently, he supports the ARBO-WATCH project as part of the JKUAT team.
+
+## Guest Trainers
+
+Details to be added.

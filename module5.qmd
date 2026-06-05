@@ -1,0 +1,25 @@
+---
+  title: "Module V"
+---
+  
+  # Spatial Epidemiology, Risk Mapping and Decision Support Systems
+  
+  ## Topics
+  
+  ### GIS Fundamentals
+  
+  ### Remote Sensing
+  
+  ### Spatial Statistics
+  
+  ### Disease Mapping
+  
+  ### Species Distribution Models
+  
+  ### Decision Support Systems
+  
+  ## Practical Sessions
+  
+  - QGIS workflows
+- Risk mapping
+- Suitability modelling

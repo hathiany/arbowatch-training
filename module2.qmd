@@ -1,0 +1,32 @@
+---
+  title: "Module II"
+---
+  
+  # Introduction to R for Public Health Surveillance
+  
+  ## Learning Objectives
+  
+  Participants will:
+  
+  - Understand R fundamentals
+- Manipulate data efficiently
+- Produce visualizations
+- Generate reports
+
+## Topics
+
+### Introduction to R
+
+### Data Management using tidyverse
+
+### Data Visualization using ggplot2
+
+### Epidemiological Analysis
+
+### Automated Reporting
+
+## Practical Sessions
+
+- Importing datasets
+- Cleaning surveillance data
+- Building surveillance reports

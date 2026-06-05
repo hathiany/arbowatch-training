@@ -1,0 +1,25 @@
+---
+  title: "Training Curriculum"
+---
+  
+  # Curriculum Overview
+  
+  The Arbo-Watch training programme consists of five integrated modules.
+
+| Module | Duration | Focus Area |
+  |----------|-----------|------------|
+  | I | 5 Days | Data Collection and Management |
+  | II | 5 Days | R Programming |
+  | III | 5 Days | Statistical Modelling |
+  | IV | 5 Days | Mathematical Modelling |
+  | V | 5 Days | Spatial Epidemiology |
+  
+  ## Training Philosophy
+  
+  The curriculum emphasizes:
+  
+  - Practical application
+- Reproducible research
+- Open science
+- One Health approaches
+- Decision support

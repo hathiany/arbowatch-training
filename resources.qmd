@@ -1,0 +1,21 @@
+---
+  title: "Resources"
+---
+  
+  # Learning Resources
+  
+  ## Lecture Materials
+  
+  Training slides and notes.
+
+## Datasets
+
+Example surveillance datasets.
+
+## Code Repositories
+
+R scripts and modelling examples.
+
+## Reading Materials
+
+Key references and publications.

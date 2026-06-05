@@ -1,0 +1,29 @@
+.hero-banner {
+  padding: 40px;
+  border-radius: 12px;
+}
+
+.navbar {
+  font-size: 1.05rem;
+}
+
+.sidebar-title {
+  font-weight: bold;
+}
+
+.quarto-title-banner {
+  background: linear-gradient(135deg,#006d77,#0a9396);
+                              color: white;
+}
+
+h1 {
+  color: #005f73;
+}
+
+h2 {
+  color: #0a9396;
+}
+
+table {
+  width: 100%;
+}
