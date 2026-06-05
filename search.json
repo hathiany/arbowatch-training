@@ -76,53 +76,46 @@
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Arbo-Watch Hub",
-    "section": "",
-    "text": "The Arbo-Watch Capacity Building Hub provides a comprehensive training programme designed to equip researchers, epidemiologists, public health practitioners, postgraduate students, and policymakers with practical skills in surveillance, statistical analysis, mathematical modelling, and spatial epidemiology.\n\n\n\nThe programme aims to:\n\nStrengthen arbovirus surveillance systems\nImprove data management and quality assurance\nBuild capacity in statistical analysis\nDevelop mathematical modelling skills\nEnhance spatial epidemiology expertise\nSupport evidence-based decision making\n\n\n\n\n\nEpidemiologists\nBiostatisticians\nPublic Health Officers\nResearchers\nGIS Specialists\nGraduate Students\n\n\n\n\nThe training combines:\n\nInteractive lectures\nHands-on practical sessions\nCase studies\nGroup projects\nReal-world datasets\nCollaborative learning\n\n\n\n\n\n\nData Collection, Management and Analysis Tools\n\n\n\nIntroduction to R for Public Health Surveillance\n\n\n\nStatistical Modelling for Epidemiological Research\n\n\n\nMathematical Modelling Techniques: From Theory to Practice\n\n\n\nSpatial Epidemiology, Risk Mapping and Decision Support Systems\n\n\n\n\nParticipants will be able to:\n\nDesign surveillance systems\nManage public health datasets\nConduct epidemiological analyses\nBuild disease transmission models\nProduce risk maps\nDevelop evidence-informed recommendations"
-  },
-  {
     "objectID": "index.html#strengthening-arbovirus-surveillance-analytics-and-modelling-capacity-in-africa",
     "href": "index.html#strengthening-arbovirus-surveillance-analytics-and-modelling-capacity-in-africa",
     "title": "Arbo-Watch Hub",
-    "section": "",
-    "text": "The Arbo-Watch Capacity Building Hub provides a comprehensive training programme designed to equip researchers, epidemiologists, public health practitioners, postgraduate students, and policymakers with practical skills in surveillance, statistical analysis, mathematical modelling, and spatial epidemiology."
+    "section": "Strengthening Arbovirus Surveillance, Analytics and Modelling Capacity in Africa",
+    "text": "Strengthening Arbovirus Surveillance, Analytics and Modelling Capacity in Africa\nThe Arbo-Watch Capacity Building Hub provides a comprehensive training programme designed to equip researchers, epidemiologists, public health practitioners, postgraduate students, and policymakers with practical skills in surveillance, statistical analysis, mathematical modelling, and spatial epidemiology."
   },
   {
     "objectID": "index.html#programme-objectives",
     "href": "index.html#programme-objectives",
     "title": "Arbo-Watch Hub",
-    "section": "",
-    "text": "The programme aims to:\n\nStrengthen arbovirus surveillance systems\nImprove data management and quality assurance\nBuild capacity in statistical analysis\nDevelop mathematical modelling skills\nEnhance spatial epidemiology expertise\nSupport evidence-based decision making"
+    "section": "Programme Objectives",
+    "text": "Programme Objectives\nThe programme aims to:\n\nStrengthen arbovirus surveillance systems\nImprove data management and quality assurance\nBuild capacity in statistical analysis\nDevelop mathematical modelling skills\nEnhance spatial epidemiology expertise\nSupport evidence-based decision making"
   },
   {
     "objectID": "index.html#target-participants",
     "href": "index.html#target-participants",
     "title": "Arbo-Watch Hub",
-    "section": "",
-    "text": "Epidemiologists\nBiostatisticians\nPublic Health Officers\nResearchers\nGIS Specialists\nGraduate Students"
+    "section": "Target Participants",
+    "text": "Target Participants\n\nEpidemiologists\nBiostatisticians\nPublic Health Officers\nResearchers\nGIS Specialists\nGraduate Students"
   },
   {
     "objectID": "index.html#learning-approach",
     "href": "index.html#learning-approach",
     "title": "Arbo-Watch Hub",
-    "section": "",
-    "text": "The training combines:\n\nInteractive lectures\nHands-on practical sessions\nCase studies\nGroup projects\nReal-world datasets\nCollaborative learning"
+    "section": "Learning Approach",
+    "text": "Learning Approach\nThe training combines:\n\nInteractive lectures\nHands-on practical sessions\nCase studies\nGroup projects\nReal-world datasets\nCollaborative learning"
   },
   {
     "objectID": "index.html#training-modules",
     "href": "index.html#training-modules",
     "title": "Arbo-Watch Hub",
-    "section": "",
-    "text": "Data Collection, Management and Analysis Tools\n\n\n\nIntroduction to R for Public Health Surveillance\n\n\n\nStatistical Modelling for Epidemiological Research\n\n\n\nMathematical Modelling Techniques: From Theory to Practice\n\n\n\nSpatial Epidemiology, Risk Mapping and Decision Support Systems"
+    "section": "Training Modules",
+    "text": "Training Modules\n\nModule I\nData Collection, Management and Analysis Tools\n\n\nModule II\nIntroduction to R for Public Health Surveillance\n\n\nModule III\nStatistical Modelling for Epidemiological Research\n\n\nModule IV\nMathematical Modelling Techniques: From Theory to Practice\n\n\nModule V\nSpatial Epidemiology, Risk Mapping and Decision Support Systems"
   },
   {
     "objectID": "index.html#expected-outcomes",
     "href": "index.html#expected-outcomes",
     "title": "Arbo-Watch Hub",
-    "section": "",
-    "text": "Participants will be able to:\n\nDesign surveillance systems\nManage public health datasets\nConduct epidemiological analyses\nBuild disease transmission models\nProduce risk maps\nDevelop evidence-informed recommendations"
+    "section": "Expected Outcomes",
+    "text": "Expected Outcomes\nParticipants will be able to:\n\nDesign surveillance systems\nManage public health datasets\nConduct epidemiological analyses\nBuild disease transmission models\nProduce risk maps\nDevelop evidence-informed recommendations"
   },
   {
     "objectID": "curriculum.html",
