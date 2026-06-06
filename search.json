@@ -30,49 +30,73 @@
   {
     "objectID": "module4.html",
     "href": "module4.html",
-    "title": "Module IV",
+    "title": "Mathematical Modelling Techniques: From Theory to Practice",
     "section": "",
-    "text": "# Mathematical Modelling Techniques: From Theory to Practice\n## Topics\n### Introduction to Disease Modelling\n### Compartmental Models\n### SIR Models\n### SEIR Models\n### Vector-Borne Disease Models\n### Parameter Estimation\n### Model Calibration\n### Sensitivity Analysis\n## Practical Sessions\n\nArbovirus transmission modelling\nForecasting outbreaks\nEvaluating interventions",
+    "text": "### Introduction to Disease Modelling\n### Compartmental Models\n### SIR Models\n### SEIR Models\n### Vector-Borne Disease Models\n### Parameter Estimation\n### Model Calibration\n### Sensitivity Analysis\n## Practical Sessions\n\nArbovirus transmission modelling\nForecasting outbreaks\nEvaluating interventions",
     "crumbs": [
       "Home",
       "Training Modules",
-      "Module IV"
+      "Mathematical Modelling Techniques: From Theory to Practice"
+    ]
+  },
+  {
+    "objectID": "module4.html#topics",
+    "href": "module4.html#topics",
+    "title": "Mathematical Modelling Techniques: From Theory to Practice",
+    "section": "",
+    "text": "### Introduction to Disease Modelling\n### Compartmental Models\n### SIR Models\n### SEIR Models\n### Vector-Borne Disease Models\n### Parameter Estimation\n### Model Calibration\n### Sensitivity Analysis\n## Practical Sessions\n\nArbovirus transmission modelling\nForecasting outbreaks\nEvaluating interventions",
+    "crumbs": [
+      "Home",
+      "Training Modules",
+      "Mathematical Modelling Techniques: From Theory to Practice"
     ]
   },
   {
     "objectID": "module2.html",
     "href": "module2.html",
-    "title": "Module II",
+    "title": "Introduction to R for Public Health Surveillance",
     "section": "",
-    "text": "# Introduction to R for Public Health Surveillance\n## Learning Objectives\nParticipants will:",
+    "text": "Participants will:\n\nUnderstand R fundamentals\nManipulate data efficiently\nProduce visualizations\nGenerate reports",
     "crumbs": [
       "Home",
       "Training Modules",
-      "Module II"
+      "Introduction to R for Public Health Surveillance"
+    ]
+  },
+  {
+    "objectID": "module2.html#learning-objectives",
+    "href": "module2.html#learning-objectives",
+    "title": "Introduction to R for Public Health Surveillance",
+    "section": "",
+    "text": "Participants will:\n\nUnderstand R fundamentals\nManipulate data efficiently\nProduce visualizations\nGenerate reports",
+    "crumbs": [
+      "Home",
+      "Training Modules",
+      "Introduction to R for Public Health Surveillance"
     ]
   },
   {
     "objectID": "module2.html#topics",
     "href": "module2.html#topics",
-    "title": "Module II",
+    "title": "Introduction to R for Public Health Surveillance",
     "section": "Topics",
     "text": "Topics\n\nIntroduction to R\n\n\nData Management using tidyverse\n\n\nData Visualization using ggplot2\n\n\nEpidemiological Analysis\n\n\nAutomated Reporting",
     "crumbs": [
       "Home",
       "Training Modules",
-      "Module II"
+      "Introduction to R for Public Health Surveillance"
     ]
   },
   {
     "objectID": "module2.html#practical-sessions",
     "href": "module2.html#practical-sessions",
-    "title": "Module II",
+    "title": "Introduction to R for Public Health Surveillance",
     "section": "Practical Sessions",
     "text": "Practical Sessions\n\nImporting datasets\nCleaning surveillance data\nBuilding surveillance reports",
     "crumbs": [
       "Home",
       "Training Modules",
-      "Module II"
+      "Introduction to R for Public Health Surveillance"
     ]
   },
   {
@@ -219,37 +243,49 @@
   {
     "objectID": "module3.html",
     "href": "module3.html",
-    "title": "Module III",
+    "title": "Statistical Modelling for Epidemiological Research",
     "section": "",
-    "text": "# Statistical Modelling for Epidemiological Research\n## Topics\n### Epidemiological Study Designs\n### Regression Analysis",
+    "text": "Linear Regression\nLogistic Regression\nPoisson Regression",
     "crumbs": [
       "Home",
       "Training Modules",
-      "Module III"
+      "Statistical Modelling for Epidemiological Research"
     ]
   },
   {
     "objectID": "module3.html#practical-sessions",
     "href": "module3.html#practical-sessions",
-    "title": "Module III",
+    "title": "Statistical Modelling for Epidemiological Research",
     "section": "Practical Sessions",
     "text": "Practical Sessions\n\nRisk factor analysis\nOutbreak investigation\nPredictive modelling",
     "crumbs": [
       "Home",
       "Training Modules",
-      "Module III"
+      "Statistical Modelling for Epidemiological Research"
     ]
   },
   {
     "objectID": "module5.html",
     "href": "module5.html",
-    "title": "Module V",
+    "title": "Spatial Epidemiology, Risk Mapping and Decision Support Systems",
     "section": "",
-    "text": "# Spatial Epidemiology, Risk Mapping and Decision Support Systems\n## Topics\n### GIS Fundamentals\n### Remote Sensing\n### Spatial Statistics\n### Disease Mapping\n### Species Distribution Models\n### Decision Support Systems\n## Practical Sessions\n\nQGIS workflows\nRisk mapping\nSuitability modelling",
+    "text": "### GIS Fundamentals\n### Remote Sensing\n### Spatial Statistics\n### Disease Mapping\n### Species Distribution Models\n### Decision Support Systems\n## Practical Sessions\n\nQGIS workflows\nRisk mapping\nSuitability modelling",
     "crumbs": [
       "Home",
       "Training Modules",
-      "Module V"
+      "Spatial Epidemiology, Risk Mapping and Decision Support Systems"
+    ]
+  },
+  {
+    "objectID": "module5.html#topics",
+    "href": "module5.html#topics",
+    "title": "Spatial Epidemiology, Risk Mapping and Decision Support Systems",
+    "section": "",
+    "text": "### GIS Fundamentals\n### Remote Sensing\n### Spatial Statistics\n### Disease Mapping\n### Species Distribution Models\n### Decision Support Systems\n## Practical Sessions\n\nQGIS workflows\nRisk mapping\nSuitability modelling",
+    "crumbs": [
+      "Home",
+      "Training Modules",
+      "Spatial Epidemiology, Risk Mapping and Decision Support Systems"
     ]
   }
 ]
